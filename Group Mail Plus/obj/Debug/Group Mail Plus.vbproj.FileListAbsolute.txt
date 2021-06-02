@@ -1,0 +1,24 @@
+C:\Program Files\Group Mail Plus\Group Mail Plus\bin\Debug\Group Mail Plus.exe
+C:\Program Files\Group Mail Plus\Group Mail Plus\bin\Debug\Group Mail Plus.pdb
+C:\Program Files\Group Mail Plus\Group Mail Plus\bin\Debug\Group Mail Plus.xml
+C:\Program Files\Group Mail Plus\Group Mail Plus\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\Group Mail Plus\Group Mail Plus\obj\Debug\Group_Mail_Plus.Form1.resources
+C:\Program Files\Group Mail Plus\Group Mail Plus\obj\Debug\Group_Mail_Plus.Resources.resources
+C:\Program Files\Group Mail Plus\Group Mail Plus\obj\Debug\Group Mail Plus.vbproj.GenerateResource.Cache
+C:\Program Files\Group Mail Plus\Group Mail Plus\obj\Debug\Group Mail Plus.exe
+C:\Program Files\Group Mail Plus\Group Mail Plus\obj\Debug\Group Mail Plus.xml
+C:\Program Files\Group Mail Plus\Group Mail Plus\obj\Debug\Group Mail Plus.pdb
+D:\Windows Programlama\Group Mail Plus\Group Mail Plus\obj\Debug\Group Mail Plus.exe
+D:\Windows Programlama\Group Mail Plus\Group Mail Plus\obj\Debug\Group Mail Plus.xml
+D:\Windows Programlama\Group Mail Plus\Group Mail Plus\obj\Debug\Group Mail Plus.pdb
+F:\Programlama\Örnekler\Group Mail Plus\Group Mail Plus\bin\Debug\Group Mail Plus.exe
+F:\Programlama\Örnekler\Group Mail Plus\Group Mail Plus\bin\Debug\Group Mail Plus.pdb
+F:\Programlama\Örnekler\Group Mail Plus\Group Mail Plus\bin\Debug\Group Mail Plus.xml
+F:\Programlama\Örnekler\Group Mail Plus\Group Mail Plus\obj\Debug\Group Mail Plus.vbprojAssemblyReference.cache
+F:\Programlama\Örnekler\Group Mail Plus\Group Mail Plus\obj\Debug\Group_Mail_Plus.Form1.resources
+F:\Programlama\Örnekler\Group Mail Plus\Group Mail Plus\obj\Debug\Group_Mail_Plus.Resources.resources
+F:\Programlama\Örnekler\Group Mail Plus\Group Mail Plus\obj\Debug\Group Mail Plus.vbproj.GenerateResource.cache
+F:\Programlama\Örnekler\Group Mail Plus\Group Mail Plus\obj\Debug\Group Mail Plus.vbproj.CoreCompileInputs.cache
+F:\Programlama\Örnekler\Group Mail Plus\Group Mail Plus\obj\Debug\Group Mail Plus.exe
+F:\Programlama\Örnekler\Group Mail Plus\Group Mail Plus\obj\Debug\Group Mail Plus.xml
+F:\Programlama\Örnekler\Group Mail Plus\Group Mail Plus\obj\Debug\Group Mail Plus.pdb
